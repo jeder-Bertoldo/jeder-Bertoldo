@@ -15,9 +15,8 @@
 
 ## Academico 🧑‍💻
 
-Superior em Sistemas Para Internet: Instituto Federal de Educação, Ciência e Tecnologia do Acre (IFAC) - (2020 - Atulmente)
-<P></P>
-Tecnico de Informatica: Serviço Nacional de Aprendizagem Comercial (SENAC) - (2023 - Atulmente)
+* Superior em Sistemas Para Internet: Instituto Federal de Educação, Ciência e Tecnologia do Acre (IFAC) - (2020 - Atulmente)
+* Tecnico de Informatica: Serviço Nacional de Aprendizagem Comercial (SENAC) - (2023 - Atulmente)
 
 
 ## Tecnologias em Desenvolvimento
