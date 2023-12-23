@@ -13,7 +13,11 @@
 <img align="center" alt= "MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div></br>
 
-Apaixonado por Tecnologia
+Academico 🧑‍💻
+
+Superior em Sistemas Para Internet: Instituto Federal de Educação, Ciência e Tecnologia do Acre (IFAC) - (2020 - Atulmente)
+Tecnico de informatica: Serviço Nacional de Aprendizagem Comercial (SENAC) - (2023 - Atulmente)
+
 
 ### Tecnologias em Desenvolvimento
 <div style ="display: inline_block"><br>
