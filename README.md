@@ -15,7 +15,7 @@
 
 ## Academic 🧑‍💻
 
-* Higher Education in Internet Systems: Federal Institute of Education, Science and Technology of Acre (IFAC) - (2020 - Currently)
+* Higher Education in Internet Systems: Federal Institute of Education, Science and Technology of Acre (IFAC) - (2020 - 2024)
 * IT Technician: National Commercial Learning Service (SENAC) - (2023 - 2024)
 
 
